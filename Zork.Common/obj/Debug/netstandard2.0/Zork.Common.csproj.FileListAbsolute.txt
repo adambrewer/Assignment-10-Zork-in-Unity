@@ -1,0 +1,16 @@
+C:\Dev\ZorkInUnity\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.deps.json
+C:\Dev\ZorkInUnity\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.dll
+C:\Dev\ZorkInUnity\Zork.Common\bin\Debug\netstandard2.0\Zork.Common.pdb
+C:\Dev\ZorkInUnity\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache
+C:\Dev\ZorkInUnity\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfoInputs.cache
+C:\Dev\ZorkInUnity\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfo.cs
+C:\Dev\ZorkInUnity\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.CoreCompileInputs.cache
+C:\Dev\ZorkInUnity\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.Fody.CopyLocal.cache
+C:\Dev\ZorkInUnity\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.dll
+C:\Dev\ZorkInUnity\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.pdb
+C:\Dev\ZorkInUnity\Zork.Common\Zork.Unity\Assets\netstandard2.0\Zork.Common.deps.json
+C:\Dev\ZorkInUnity\Zork.Common\Zork.Unity\Assets\netstandard2.0\Zork.Common.dll
+C:\Dev\ZorkInUnity\Zork.Common\Zork.Unity\Assets\netstandard2.0\Zork.Common.pdb
+C:\Dev\ZorkInUnity\Zork.Unity\Assets\netstandard2.0\Zork.Common.deps.json
+C:\Dev\ZorkInUnity\Zork.Unity\Assets\netstandard2.0\Zork.Common.dll
+C:\Dev\ZorkInUnity\Zork.Unity\Assets\netstandard2.0\Zork.Common.pdb
